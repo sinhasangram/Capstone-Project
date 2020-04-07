@@ -1,5 +1,7 @@
 # Capstone-Project
 
+### Note: The dataset provided in zipped format is not complete dataset. Please visit kaggle website(https://www.kaggle.com/mlg-ulb/creditcardfraud) to access full dataset.
+
 ## Problem Statement
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
 
